@@ -142,11 +142,11 @@
   }
   
   .admonition-title::before {
-    position: relative;
-    /*top: .9rem;
+    position: absolute;
+    top: 0.6rem;
     left: 1rem;
     width: 12px;
-    height: 12px;*/
+    height: 12px;
     background-color: #42b983;
     border-radius: 50%;
     content: ' ';
